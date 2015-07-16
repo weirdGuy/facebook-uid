@@ -3,7 +3,8 @@
 
 ### Installation
 * First of all -- download lib
-* require that in your script
+* Copy in any folder on your server, than create file cookie.txt with CHMOD777
+* Require lib in your script
 ```sh
     include_once('fbuid.php');
 ```
