@@ -1,7 +1,7 @@
 <?php
 
 
-    class FUID {
+    class FBUID {
         
         
         public $loged = false;
